@@ -1,0 +1,33 @@
+#buy{
+  background: #20bd99;
+  border: 1px solid #20bd99;
+}
+#view{
+  background: #535766;
+  border: 1px solid #535766;
+}
+a{
+  text-decoration: none;
+  color: white;
+  border-radius:2px;
+  font-family: Arial;
+  font-size: inherit;
+  font-weight: bold;
+  padding: 10px;
+  margin-right: 10px;
+  padding-right: 40px;
+  padding-left: 40px;
+  /*margin-right:10px;
+  padding:10px 10px 10px 10px;*/
+
+}
+h3{
+  color: #696e79;
+}
+body{
+  background-image: url('');
+}
+/*http://ahdzbook.com/data/out/248/hdwp693924446.jpg
+https://i.pinimg.com/originals/2e/fd/f5/2efdf54c32cb69d10ed76d948429236e.jpg
+https://i.pinimg.com/originals/a5/b1/c0/a5b1c0dd1ca04a752e608a4eded86561.jpg
+*/
