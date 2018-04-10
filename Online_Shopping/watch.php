@@ -43,7 +43,7 @@
         <h3>Price: Rs&nbsp;<strike>".$arr['price']."</strike>  ".$oprice.
         "</h3>
         <a href='cart.php?action=add & productId=$pId' id='buy'> BUY </a>
-        <a href='view.php?subcatg=dresses & pid=$pId' id='view'> VIEW  </a>
+        <a href='view.php?subcatg=watch & pid=$pId' id='view'> VIEW  </a>
         </td>";
         if($n%3==2)
         {
